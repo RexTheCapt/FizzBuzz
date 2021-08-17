@@ -1,4 +1,4 @@
-# FizzBuzz
+# [FizzBuzz](https://youtu.be/QPZ0pIK_wsc)
 Rules of FizzBuzz: (WikiPedia)  
 Players generally sit in a circle.  
 The player designated to go first says the number "1", and the players then count upwards in turn.  
